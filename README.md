@@ -1,4 +1,4 @@
-## Api Contato
+## Api contato
 - API simples com Spring Boot utilizando PostgreSQL como banco de dados relacional
 
 ## Funcionalidades
@@ -12,3 +12,6 @@
 - Spring Boot 2.7.3
 - PostgreSQL 14.4.1
 - Apache Maven 3.8.6
+
+## Serviços usados
+- Github
